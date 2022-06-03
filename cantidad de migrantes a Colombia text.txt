@@ -1,11 +1,11 @@
 Países	Inmigrantes
 Venezuela	1.048.714
-Estados Unidos	20.14
+Estados Unidos	2.014
 Ecuador	15.212
 España	7.086
 Perú	5.391
 Argentina	3.419
-México	3.05
+México	305
 Italia	3.001
 Alemania	2.523
 Brasil	2.496
