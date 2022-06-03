@@ -1,0 +1,31 @@
+Países	Inmigrantes
+Venezuela	3
+Estados Unidos	3
+Ecuador	3
+España	3
+Perú	3
+Argentina	2
+México	2
+Italia	2
+Alemania	2
+Brasil	2
+Panamá	2
+Francia	2
+China	2
+Chile	2
+Cuba	2
+Reino Unido	2
+Líbano	2
+Costa Rica	2
+Canadá	2
+Bolivia	1
+Japón	1
+Suiza	1
+Rusia	1
+Nicaragua	1
+Israel	1
+Guatemala	1
+Bélgica	1
+Uruguay	1
+República Dominicana	1
+El Salvador	1
