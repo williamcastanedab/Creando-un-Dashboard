@@ -1,0 +1,31 @@
+Países	Inmigrantes
+Venezuela	1.048.714
+Estados Unidos	20.14
+Ecuador	15.212
+España	7.086
+Perú	5.391
+Argentina	3.419
+México	3.05
+Italia	3.001
+Alemania	2.523
+Brasil	2.496
+Panamá	2.208
+Francia	2.203
+China	2.176
+Chile	2.162
+Cuba	1.945
+Reino Unido	1.322
+Líbano	1.253
+Costa Rica	1.128
+Canadá	1.051
+Bolivia	874
+Japón	771
+Suiza	725
+Rusia	719
+Nicaragua	611
+Israel	500
+Guatemala	490
+Bélgica	464
+Uruguay	464
+República Dominicana	410
+El Salvador	409
